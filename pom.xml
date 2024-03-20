@@ -1,15 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
         <modelVersion>4.0.0</modelVersion>
-        <groupId>com.devopsmadeeasy</groupId>
-        <artifactId>devopsmadeeasy</artifactId>
+        <groupId>com.techlink</groupId>
+        <artifactId>techlink</artifactId>
         <packaging>war</packaging>
         <version>1.2.3</version>
 
         <name>devops</name>
         <description>Maven Web App for Java Projects</description>
         <organization>
-                <name>devopsmadeeasy</name>
-                <url>https://devopsmadeeasy.com</url>
+                <name>techlink</name>
+                <url>https://techlink.com</url>
         </organization>
 
         <properties>
@@ -104,7 +104,7 @@
         </distributionManagement>
 
         <build>
-                <finalName>employee-application</finalName>
+                <finalName>techLink-Employee-Application</finalName>
                 <plugins>
                         <plugin>
                                 <groupId>org.apache.maven.plugins</groupId>
